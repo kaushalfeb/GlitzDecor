@@ -6,9 +6,9 @@ See the wide range of products across different sections.
 
 ## Link to the site
 
-[GlitzDecor] ()
+[GlitzDecor] (https://kaushalfeb.github.io/GlitzDecor/)
 
-Technologies Front-End:
+Technologies Front-End:<br>
 	1.HTML
 	2.CSS
 	3.Figma
@@ -19,17 +19,17 @@ Technologies Front-End:
 Landing Page
 --------------
 
-![alt-text]("Hero of the website")
+![alt-text](https://github.com/kaushalfeb/GlitzDecor/blob/master/pics/hero.PNG "Hero of the website")
 
 Categories
 --------------
 
-![alt-text]("Categories")
+![alt-text](https://github.com/kaushalfeb/GlitzDecor/blob/master/pics/Categories.PNG "Categories")
 
 ContactUs
 --------------
 
-![alt-text]("ContactUs")
+![alt-text](https://github.com/kaushalfeb/GlitzDecor/blob/master/pics/ContactUs.PNG "ContactUs")
 
 
 #### Contribution
