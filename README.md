@@ -4,9 +4,9 @@ Website design for a home decore business. Supercool user interface and friendly
 Makes furniture and accessories available to users with multiple pages with support, contact, collection etc. 
 See the wide range of products across different sections. 
 
-## Link to the site
+## Link to the site updated
 
-[GlitzDecor] (https://kaushalfeb.github.io/GlitzDecor/)
+[GlitzDecor](https://kaushalfeb.github.io/GlitzDecor/)
 
 Technologies Front-End:<br>
 	1.HTML
