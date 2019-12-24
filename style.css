@@ -301,7 +301,6 @@ nav{
 
 .left-ar img{
 	height: 15vh;
-
 }
 
 .right-ar{
@@ -310,13 +309,38 @@ nav{
 
 .right-ar img{
 	height: 15vh;
+	display: block;
+	margin-left: auto;
 }
 
 .dressing{
 	height: 400px;
+	border:2px solid black;
 }
 
 .dressing img{
 	height: 400px;
 	width: 250px;
+	background: lightgrey;
+}
+.dressing p{
+	font-size: 20px;
+}
+.dressing button{
+	background-color: lightblue;
+	font-size: 30px;
+}
+
+.Subs{
+	width: 90%;
+	margin: auto;
+	display: flex;
+	margin-top: 5px;
+	background: red;
+}
+
+.SSub{
+	background-color: red;
+	height: 100%;		
+
 }
