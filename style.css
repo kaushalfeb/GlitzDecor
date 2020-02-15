@@ -351,13 +351,6 @@ nav{
 	height: 350px;
 }
 
-
-
-
-
-
-
-
 .Subscription{
 	width: 70%;
 	margin: auto;
@@ -376,9 +369,6 @@ nav{
 .icon img{
 	width: 200px;	
 	margin-bottom: -100px;
-}
-.holder{
-	
 }
 
 .holder h2{
@@ -418,5 +408,28 @@ nav{
 }
 .holder button:hover{
 	color:navy;
-
+}
+.partnership{
+	display: flex;
+	width: 90%;
+	margin: auto;
+}
+.lefthr,.righthr,.our{
+	flex: 1;
+}
+.our{
+	font-family: Baron Neue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 56px;
+	line-height: 96px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+}
+.lefthr{
+	padding-top: 60px;
+}
+.righthr{
+	padding-top: 60px;
 }
