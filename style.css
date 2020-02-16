@@ -128,8 +128,6 @@ nav{
 
 }
 
-
-
 .view {
 	background: none;
 	border:2px solid #0b8793;
@@ -166,10 +164,6 @@ nav{
 .view:hover::before{
 	transform: scaleX(1);
 }
-
-
-
-
 
 .LiqL{
 	display: block;
@@ -570,7 +564,7 @@ footer{
 }
 .Services{
 	padding-left: 150px;
-	padding-right: 150px;
+	padding-right: 50px;
 }
 td{
 	padding: 5px;
@@ -585,7 +579,7 @@ td{
 .Services h3,.Careers h3{
 	font-size: 23px;
 	font-weight: normal;
-		color: white;
+	color: white;
 }
 .Services .ba,.Careers .ba{
 	list-style-type: none;
