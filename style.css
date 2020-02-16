@@ -339,7 +339,6 @@ nav{
 	height: 350px;
 	padding-right: 10px;
 }
-
 .Reclinerbanner img{
 	width: 350px;
 	height: 350px;
@@ -459,7 +458,6 @@ nav{
 	position: relative;
 	width: 100%;
 	height: 20vh;
-	xbackground: linear-gradient(to bottom, #36D1DC, #5B86E5);
 	overflow: hidden;
 }
 .liquid .wave{
@@ -488,7 +486,7 @@ nav{
 .liquid .wave.wave3{
 		animation:animate 30s linear infinite;
 		z-index: 998;
-		opacity: 0.2;
+		opacity: 0.4;
 		animation-delay: -2s;
 		bottom: 15px;
 }
@@ -503,21 +501,32 @@ nav{
 footer{
 	width: 100%;
 	margin: auto;
-	display: flex;
-	xbackground: linear-gradient(to bottom, #36D1DC, #5B86E5);
-	background: #0c56ff;
+	background: #53a9da;
+}
+.mango{
+	width: 80%;
+	margin: auto;
+	display: flex;	
 }
 .abt,.Services,.Careers{
 	flex:1;
 	font-family: Poppins;
 	font-size: 18px;
+	color: black;
 }
 .abt h2{
-	font-size: 18px;
+	font-size: 12px;
 	font-weight: normal;
+}
+.abt h1{
+		color: white;
 }
 .abt{
 	font-size: 15px;
+}
+.Services{
+	padding-left: 150px;
+	padding-right: 150px;
 }
 td{
 	padding: 5px;
@@ -525,12 +534,14 @@ td{
 .ends{
 	text-align: center;
 	font-family: Poppins;
-	background:#0c56ff ;
-	font-size: 18px;
+	background:#53a9da ;
+	font-size: 16px;
+	color: black;
 }
 .Services h3,.Careers h3{
 	font-size: 23px;
 	font-weight: normal;
+		color: white;
 }
 .Services .ba,.Careers .ba{
 	list-style-type: none;
@@ -552,4 +563,4 @@ td{
 		background-position-x:1000px;
 	}
 }
-}
+
