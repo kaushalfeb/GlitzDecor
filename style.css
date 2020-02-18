@@ -116,17 +116,6 @@ nav{
 	line-height: 0.5;
 }
 
-.xview{
-	font-size: 16px;
-	background: #219653;  
-	width:150px;
-	height:50px;
-	cursor:pointer;
-	border:none;
-	margin-top: 10px;
-	color:white;
-
-}
 
 .view {
 	background: none;
@@ -140,6 +129,7 @@ nav{
 	transition: color 0.4s linear;
 	position: relative;
 	z-index: 1;
+	font-family: poppins;
 }
 .view:hover{
 	color: #fff;
