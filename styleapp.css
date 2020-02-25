@@ -8,6 +8,65 @@ body{
   	background:lightblue; 
 }
 
+
+
+
+
+
+header{
+	display: flex;
+	width: 90%;
+	margin:auto;
+	min-height: 10vh;
+	align-items: center;
+	margin-top: 5px;
+}
+
+.logo-container,.nav-links,.search,.cart{
+	display: flex;
+}
+
+.logo-container{
+	flex: 1;
+}
+
+.logo{
+	font-weight: 400;
+	font-size: 38px;
+	margin: 5px;
+}
+
+nav{
+	flex: 3;
+	text-transform: uppercase;
+}
+
+.nav-links{
+	justify-content: space-around;
+	list-style: none;
+}
+
+.nav-link{
+	color: #646464;
+	font-size:18px;
+	text-decoration: none;
+}
+
+.nav-link:hover {
+	text-decoration:underline;
+}
+
+.search{
+	flex: 1;
+	justify-content: space-around;
+}	
+
+
+
+
+
+
+
 .out{
 	position: absolute;
 	width: 313px;
