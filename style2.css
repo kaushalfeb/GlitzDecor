@@ -265,3 +265,72 @@ nav{
 		left: 5%;;
 	}
 }
+
+
+
+
+
+
+
+
+
+
+
+.topper{
+	height: 80vh;
+	width: 100%;	
+}
+.heading{
+	width: 70%;
+	margin: auto;
+}
+.titles{
+	font-family: Montserrat;
+	font-size: 50px;
+	line-height: 98px;
+	text-align: left;
+	text-transform: uppercase;
+	color: #054F66;
+}
+.listing{
+	display: flex;
+	width: 70%;
+	height: 60vh;
+	margin:auto;
+	margin-top: 30px;
+}
+.postOne,.postTwo,.postThree{
+	flex: 1;
+}
+.postOne{
+	height: 70vh;
+	width: 100px;
+	}
+.postTwo{
+	height: 70vh;
+	width: 100px;
+}
+.postThree{
+	height: 70vh;
+	width: 100px;
+}
+.preview{
+	height: 40vh;
+	width: 90%;
+	margin-top: 10px;
+	margin:auto;
+}
+.preview img{
+	height: 100%;
+	width: 100%;
+}
+.subtopic{
+	margin-top: 20px;
+	font-family: Montserrat;
+	text-align: center;
+	color: #054F66;
+}
+.subtopic a{
+	text-decoration: none;
+	color: #054F66;
+}
